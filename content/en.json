@@ -1,0 +1,144 @@
+{
+    "homepage": {
+        "hero": {
+            "title": "Your Complete Merch Solution",
+            "subTitle": "One Stop solution with end-to-end solutions: from creative design and quality production to secure storage and global delivery – Let us simplify it for you!",
+            "cta": [
+                {
+                    "label": "to catalogue",
+                    "href": "catalog"
+                },
+                {
+                    "label": "Get In tocuh",
+                    "href": "catalog"
+                }
+            ],
+            "items": [
+                
+            ]
+        },
+        "references": {
+            "title": "Globally recognized by",
+            "subtitle":"From scale-ups to enterprises. "
+        },
+        "WhatCanWeDoForYou" : {
+            "title":"How can we bring your vision to life?"
+        },
+        "aboutUs": {
+            "title": "Why Merchandisy",
+            "cta": "See Products",
+            "subtitle": [
+                {
+                    "title": "Unique Design",
+                    "description": "Our custom designs are unique in the market: we always start with the client's brand guidelines (logo, Pantone colors, brand vision, etc.). Then, we help think about the purpose of the clothing and who will wear it. This way, the design team can work on a custom design in a much more targeted way. The team also constantly follows the latest fashion trends, ensuring that we can develop contemporary and modern concepts that will be worn with pride."
+                },
+                {
+                    "title": "Global Shipping",
+                    "description": "We noticed that many of our clients love running creative campaigns using great clothing, but hate the hassle. That's why we started working on a solution. Sunday Wardrobe™ is our SAAS solution, making it super easy for companies to store, manage, and ship clothing to key stakeholders."
+                },
+                {
+                    "title": "Personalized Service",
+                    "description": "Personal contact, support throughout the process, and clear communication, that's what Sunday guarantees. We think along with the client and help them choose the perfect product, finishing options, and the best way to use the clothing to achieve maximum ROI."
+                }
+            ]
+        },
+        "portfolio": {
+            "title": "Client Highlights",
+            "cta": "read more",
+            "items": [
+                {
+                    "title": "John & Jane",
+                    "className": "col-span-2",
+                    "image": "/portfolio/image1.jpg",
+                    "description": "Bold never regular"
+                },
+                {
+                    "title": "Showpad",
+                    "className": "col-span-1",
+                    "image": "/portfolio/showpad.jpg",
+                    "description": "Showpadders kicking ass at its brightest"
+                },
+                {
+                    "title": "Johnnie Walker",
+                    "className": "col-span-1",
+                    "image": "/portfolio/johnniewalker.jpg",
+                    "description": "The collection of Celebration"
+                },
+                {
+                    "title": "Ablo",
+                    "className": "col-span-2",
+                    "image": "/portfolio/image4.jpg",
+                    "description": "Eye-catching influencers for Ablo"
+                }
+            ]
+        },
+        "featuredProducts": {
+            "title": "Featured Products",
+            "cta": "Discover more",
+            "items": [
+                {
+                    "title": "Branded Hoodies",
+                    "image": "/products/1.jpg"
+                },
+                {
+                    "title": "Custom Socks",
+                    "image": "/products/2.jpg"
+                },
+                {
+                    "title": "T-shirts & Tops",
+                    "image": "/products/3.jpg"
+                },
+                {
+                    "title": "See all products",
+                    "image": "/products/4.jpg"
+                }
+            ]
+        }
+    },
+    "aboutUs": {
+        "titlehistory": "Our vision is that people increasingly prefer  <br /> to wear a brand they identify with.",
+        "labelhistory": "Our Story",
+        "descriptionhistory": "It all started with the personal stories of our two founders. One was a successful DJ with his own merchandise, and the other a fan of Avicii, looking for the perfect merchandise. They connected their stories and decided to build a company that provides DJs and festivals with high-quality merch.",
+        "title": "Dress Your Ambassadors",
+        "subTitle": "At Merchandisy, we create amazing branded merchandise that your employees, customers, and fans love to wear during the week and even on Sunday. This helps them connect more deeply with each other and with your brand, transforming them into true ambassadors.",
+        "nosServices": {
+            "title": "Our Services",
+            "description": "We design and produce the best wearable merchandise in both look and feel for our clients. And we help them ship it worldwide easily.",
+            "items": [
+                {
+                    "image": "/design.png",
+                    "title": "Design",
+                    "description": "Our design team starts their vision from a roll of fabric, just like true fashion brands do. This means we can create truly unique items for your brand. We don’t settle for generic white sweatshirts and t-shirts with a printed logo. We pride ourselves on designing clothing that captures your brand’s unique essence, making something your fans will love to wear."
+                },
+                {
+                    "image": "/production.png",
+                    "title": "Production",
+                    "description": "Every product we design is carefully produced to the highest standards of quality and durability. We have dedicated production centers in Poland and Turkey, which ensures close personal collaboration with all selected partners. Our in-house R&D department gives you the opportunity to create completely customized fashion items from scratch."
+                },
+                {
+                    "image": "/shipping.png",
+                    "title": "Global Shipping",
+                    "description": "One of the main challenges our clients face is managing the logistics of merchandise. The industry standard is that once the products are made, the supplier’s job is done. We think differently. That’s why we built our Wardrobe™ platform. A virtual closet that keeps an overview of your merchandise, including real-time stock levels, and helps our clients ship their merchandise globally with just a few clicks, while we handle the tough fulfillment work behind the scenes."
+                },
+                {
+                    "image": "/service.png",
+                    "title": "Service",
+                    "description": "Our customer is at the center of our business. That’s why our sole focus is on making their life better by: Creating beautiful custom products that actually deliver results Constantly investing in processes and software solutions that make their life easier (Wardrobe™, realistic 3D designs, remote size collection tool,...) Helping and advising our clients throughout the process in a personal way. Because this is often a headache for companies and we are the textile experts, we make the customer journey comfortable. From adjusting products to fit your budget to suggesting size ranges, our team is here to support you with personalized service every step of the way. Our mission is to be the world’s number one reference for helping businesses integrate their brand into their ambassadors’ wardrobes."
+                }
+            ]
+        }
+    },
+    "footer": {
+        "copyright": "© 2024 merchandisy. All rights reserved.",
+        "newsLetter": {
+            "title": "Don't miss the latest corporate fashion trends!",
+            "inputPlaceHolder": "Your Address E-mail",
+            "terms": "* By signing up, you agree to the General Terms of Sale, the Terms of Use and the Privacy Policy"
+        },
+        "links": [
+            "General Terms of Sale",
+            "Terms of Use",
+            "Privacy Policy"
+        ]
+    }
+}

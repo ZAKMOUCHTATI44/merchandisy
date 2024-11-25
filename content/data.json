@@ -1,0 +1,67 @@
+[
+    {
+        "category": "Packaging",
+        "products": [
+            {
+                "id": 1,
+                "name": "Plain Box",
+                "price": 3,
+                "picture": "https://mondaymerch.com/v1/images/images/public/product.product/53402/image_512/619f474aca"
+            },
+            {
+                "id": 2,
+                "name": "Sticker Box",
+                "price": 5,
+                "picture": "https://mondaymerch.com/v1/images/images/public/product.product/53212/image_512/619f474aca"
+            },
+            {
+                "id": 3,
+                "name": "Printed Box",
+                "price": 12,
+                "picture": "https://mondaymerch.com/v1/images/images/public/product.product/1942/image_512/619f474aca"
+            },
+            {
+                "id": 4,
+                "name": "Plain Envelope",
+                "price": 10,
+                "picture": "https://mondaymerch.com/v1/images/images/public/product.product/65942/image_512/619f474aca"
+            }
+        ]
+    },
+    {
+        "category": "Apparel",
+        "products": [
+            {
+                "id": 5,
+                "name": "T-Shirt",
+                "price": 15,
+                "picture": "https://mondaymerch.com/v1/images/images/public/product.product/65942/image_512/619f474aca"
+
+            },
+            {
+                "id": 6,
+                "name": "Hoodie",
+                "price": 30,
+                "picture": "https://mondaymerch.com/v1/images/images/public/product.product/65942/image_512/619f474aca"
+
+            }
+        ]
+    },
+    {
+        "category": "Office",
+        "products": [
+            {
+                "id": 7,
+                "name": "Notebook",
+                "price": 7,
+                "picture": "https://mondaymerch.com/v1/images/images/public/product.product/65942/image_512/619f474aca"
+            },
+            {
+                "id": 8,
+                "name": "Pen",
+                "price": 2,
+                "picture": "https://mondaymerch.com/v1/images/images/public/product.product/65942/image_512/619f474aca"
+            }
+        ]
+    }
+]

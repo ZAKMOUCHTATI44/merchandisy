@@ -1,0 +1,143 @@
+{
+    "homepage": {
+        "hero": {
+            "title": "Votre partenaire tout-en-un pour le merchandising",
+            "subTitle": "Organiser les articles de merchandising pour votre entreprise est difficile et chronophage. Laissez-nous nous en occuper pour vous : design, production, stockage et expédition mondiale.",
+            "cta": [
+                {
+                    "label": "Voir le catalogue",
+                    "href": "catalog"
+                },
+                {
+                    "label": "Contactez-nous",
+                    "href": "catalog"
+                }
+            ],
+            "items": [
+            ]
+        },
+        "references": {
+            "title": "Mondialement reconnu par",
+            "subtitle": "From scale-ups to enterprises. "
+        },
+        "WhatCanWeDoForYou" : {
+            "title":"What can we do for you?"
+        },
+        "aboutUs": {
+            "title": "Pourquoi Merchandisy",
+            "cta": "Voir Les produits",
+            "subtitle": [
+                {
+                    "title": "Design unique",
+                    "description": "Nos designs personnalisés sont uniques sur le marché : nous partons toujours des directives de marque du client (logo, couleurs Pantone, vision de la marque, …). Ensuite, nous aidons à réfléchir à l'objectif des vêtements et à qui les portera. De cette manière, l'équipe de design peut travailler sur un design personnalisé de manière beaucoup plus ciblée. L'équipe suit également constamment les dernières tendances de la mode, ce qui garantit que nous pouvons développer des concepts contemporains et modernes qui seront portés avec fierté."
+                },
+                {
+                    "title": "Expédition mondiale",
+                    "description": "Nous avons remarqué que beaucoup de nos clients aiment réaliser des campagnes créatives en utilisant des vêtements géniaux, mais détestent les tracas. C'est pourquoi nous avons commencé à travailler sur une solution. Sunday Wardrobe™ est notre solution SAAS, rendant super facile pour les entreprises de stocker, gérer et expédier des vêtements aux parties prenantes clés."
+                },
+                {
+                    "title": "Service personnalisé",
+                    "description": "Un contact personnel, un accompagnement tout au long du processus et une communication claire, c'est ce que Sunday garantit. Nous réfléchissons avec le client et l'aidons à choisir le produit parfait, les options de finition et la meilleure façon d'utiliser les vêtements pour obtenir un ROI maximal."
+                }
+            ]
+        },
+        "portfolio": {
+            "title": "Recouvrement des clients",
+            "cta": "lire plus",
+            "items": [
+                {
+                    "title": "John & Jane",
+                    "className": "col-span-2",
+                    "image": "/portfolio/image1.jpg",
+                    "description": "Bold never regular"
+                },
+                {
+                    "title": "Showpad",
+                    "className": "col-span-1",
+                    "image": "/portfolio/showpad.jpg",
+                    "description": "Showpadders kicking ass at its brightest"
+                },
+                {
+                    "title": "Johnnie Walker",
+                    "className": "col-span-1",
+                    "image": "/portfolio/johnniewalker.jpg",
+                    "description": "The collection of Celebration"
+                },
+                {
+                    "title": "Ablo",
+                    "className": "col-span-2",
+                    "image": "/portfolio/image4.jpg",
+                    "description": "Eye-catching influencers for Ablo"
+                }
+            ]
+        },
+        "featuredProducts": {
+            "title": "Produits en Vedette",
+            "cta": "Découvrir plus",
+            "items": [
+                {
+                    "title": "Sweats à capuche de marque",
+                    "image": "/products/1.jpg"
+                },
+                {
+                    "title": "Chaussettes personnalisées",
+                    "image": "/products/2.jpg"
+                },
+                {
+                    "title": "T-shirts & tops",
+                    "image": "/products/3.jpg"
+                },
+                {
+                    "title": "Voir tous les produits",
+                    "image": "/products/4.jpg"
+                }
+            ]
+        }
+    },
+    "aboutUs": {
+        "title": "Habiller vos ambassadeurs",
+        "subTitle": "Chez Merchandisy, nous créons des merchandisy de marque incroyables que vos employés, clients et fans adorent porter pendant la semaine et même le dimanche. Ainsi, ils peuvent se connecter à un niveau plus profond les uns avec les autres et avec votre marque, les transformant en véritables ambassadeurs.",
+        "titlehistory": "Notre vision est que les gens préfèrent de plus en plus <br /> porter une marque à laquelle ils s'identifient.",
+        "labelhistory": "Notre histoire",
+        "descriptionhistory": "It all started with the two personal stories of our founders. One of them a successful DJ with his own merchandise, the other one a fan of Avicii, looking for the perfect merchandise. They connected their stories and decided to build a company that provided dj's and festivals with high quality merch.",
+        "nosServices": {
+            "title": "Nos services",
+            "description": "Nous concevons et produisons les meilleures marchandises portables dans l'apparence et la sensation de nos clients. Et les aidons à les expédier mondialement facilement.",
+            "items": [
+                {
+                    "title": "Conception",
+                    "image": "/design.png",
+                    "description": "Notre équipe de design commence leur vision à partir d'un rouleau de tissu, tout comme le font les vraies marques de mode. Cela signifie que nous pouvons créer des articles vraiment uniques pour votre marque. Nous ne nous contentons pas de sweaters et t-shirts blancs génériques avec un logo imprimé. Mais nous sommes fiers de concevoir des articles vestimentaires qui capturent l'essence unique de votre marque, en faisant quelque chose que vos fans adoreront porter."
+                },
+                {
+                    "image": "/production.png",
+                    "title": "Production",
+                    "description": "Chaque produit que nous concevons, nous le produisons soigneusement selon les normes les plus élevées en matière de qualité et de durabilité. Nous disposons de centres de production dédiés en Pologne et en Turquie, ce qui assure une collaboration personnelle étroite avec tous les partenaires sélectionnés. Notre département R&D interne vous donne la possibilité de créer des articles de mode complètement personnalisés à partir de zéro."
+                },
+                {
+                    "image": "/shipping.png",
+                    "title": "Expédition Globale",
+                    "description": "L'un des principaux défis auxquels nos clients sont confrontés est la gestion de la logistique des marchandises. La norme de l'industrie est que, une fois les produits fabriqués, le travail du fournisseur est terminé. Nous sommes d'un avis différent. C'est pourquoi nous avons construit notre plateforme Wardrobe™. Un placard virtuel qui garde un aperçu de vos marchandises, y compris les niveaux de stock en temps réel, et qui aide nos clients à expédier leurs marchandises mondialement en quelques clics. Pendant que nous faisons le travail d'exécution difficile en coulisse."
+                },
+                {
+                    "image": "/service.png",
+                    "title": "Service",
+                    "description": "Notre client est au centre de notre entreprise. C'est pourquoi notre seul objectif est de rendre leur vie meilleure en: Créant de beaux produits personnalisés qui apportent réellement des résultats Investissant constamment dans des processus et des solutions logicielles qui facilitent leur vie (Wardrobe™, designs 3D réalistes, outil de collecte de taille à distance,...) Aider et conseiller nos clients tout au long du processus de manière personnelle. Parce que cela représente principalement un casse-tête pour les entreprises et que nous sommes les experts du textile, nous rendons le parcours client confortable. De l'ajustement des produits pour s'assurer qu'ils correspondent à votre budget à la suggestion de gammes de tailles, notre équipe est là pour vous soutenir avec un service personnalisé à chaque étape du chemin. Notre mission est d'être la référence mondiale numéro 1 pour aider les entreprises à intégrer leur marque dans la garde-robe de leurs ambassadeurs."
+                }
+            ]
+        }
+    },
+    "footer": {
+        "copyright": "© 2024 merchandisy. Tous droits réservés.",
+        "newsLetter": {
+            "title": "Ne manquez pas les dernières tendances de la mode d'entreprise !",
+            "inputPlaceHolder": "Votre adresse e-mail",
+            "terms": "* En vous inscrivant, vous acceptez les Conditions Générales de Vente, les Conditions d'Utilisation et la Politique de Confidentialité"
+        },
+        "links": [
+            "Conditions Générales de Vente",
+            "Conditions d'Utilisation",
+            "Politique de Confidentialité"
+        ]
+    }
+}
